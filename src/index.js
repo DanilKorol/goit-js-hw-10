@@ -31,3 +31,4 @@ function searchCountries(event) {
     countryInfoEL.innerHTML = '';
   }
 }
+
